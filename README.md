@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F5&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word!ッ+;+My+name+is+Maria+Clara+Bastos!;I'm+18+years+old;I+am+from+Rio+de+Janeiro;I+study+analysis+and+systems+development+at;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
-<h1>Me conheça! :zap:</h1>
+<h1 color=`#ffffff`>Me conheça! :zap:</h1>
  • Atualmente estou cursando Análise e Desenvolvimento de Sistemas :computer:<br>
  • Construindo pontes entre o front-end e o back-end, uma linha de código de cada vez! :dart:
 
