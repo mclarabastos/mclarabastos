@@ -55,12 +55,13 @@
  c++         php        arduino
 ```
 
-<p><img src="./imgs/headings/contact.svg" alt="03 Contact" width="204" height="51"></p>
+<p><img src="./imgs/headings/social-media.svg" alt="03 Social media" width="294" height="51"></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/maria-clara-bastos-522756291/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn: Maria Clara Bastos" title="LinkedIn" width="60" height="60"></a
-  ><a href="mailto:mclarabasttoz@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a
-  ><a href="https://github.com/mclarabastos"><img src="./imgs/icons/github.svg" alt="GitHub: @mclarabastos" title="GitHub" width="60" height="60"></a>
+  <a href="#"><img src="./imgs/icons/site.svg" alt="Website / portfolio" title="Portfolio" width="60" height="60"></a
+  ><a href="https://x.com/"><img src="./imgs/icons/x.svg" alt="X" title="X" width="60" height="60"></a
+  ><a href="https://www.linkedin.com/in/maria-clara-bastos-522756291/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn: Maria Clara Bastos" title="LinkedIn" width="60" height="60"></a
+  ><a href="mailto:mclarabasttoz@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a>
 </p>
 
 ```text
