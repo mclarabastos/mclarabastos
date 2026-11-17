@@ -1,35 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=180&animation=twinkling"/>
+```text
+ ooo        ooooo                     o8o                ⠀⠀⠀⠀⠀⠀⡠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ `88.       .888'                     `"'                ⠀⠀⡠⠤⠊⠉⠀⠀⠈⠉⠢⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  888b     d'888   .oooo.   oooo d8b oooo   .oooo.       ⠀⡏⠢⠤⡀⠀⠀⠀⠀⠀⡠⠤⠊⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  8 Y88. .P  888  `P  )88b  `888""8P `888  `P  )88b      ⠀⡇⠀⠀⠈⠉⠢⡤⠊⠉⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  8  `888'   888   .oP"888   888      888   .oP"888      ⠀⡇⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  8    Y     888  d8(  888   888      888  d8(  888      ⠀⠧⡀⠀⠀⠀⠀⡇⠀⠀⠀⠀⡠⠇⠀⠀⠀⡠⠤⠊⠉⠢⠤⡀⠀⠀⠀⠀
+ o8o        o888o `Y888""8o d888b    o888o `Y888""8o     ⠀⠀⠈⠉⠢⠤⡀⡇⡠⠤⠊⠉⠀⠀⡤⡊⠉⠀⠀⠀⠀⠀⠀⠈⠉⡢⡄⠀
+                                                         ⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⡇⠈⠉⠢⠤⡀⠀⡠⠤⠊⠉⠀⡇⠀
+   .oooooo.   oooo                                       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠈⡏⠀⠀⠀⠀⠀⡇⠀
+  d8P'  `Y8b  `888                                       ⠀⠀⠀⠀⠀⠀⠀⡠⠤⡀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⡇⠀
+ 888           888   .oooo.   oooo d8b  .oooo.           ⠀⠀⠀⡠⠤⠊⠉⠀⠀⠈⠉⠢⠤⡀⠉⠢⠤⡀⠀⠀⡇⠀⠀⡠⠤⠊⠁⠀
+ 888           888  `P  )88b  `888""8P `P  )88b          ⠀⠀⠀⡏⠉⠢⠤⡀⠀⡠⠤⠊⠉⡇⠀⠀⠀⠈⠉⠢⠧⠊⠉⠀⠀⠀⠀⠀
+ 888           888   .oP"888   888      .oP"888          ⠀⠀⠀⡇⠀⠀⠀⠈⡏⠀⠀⠀⠀⡧⠤⠤⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ `88b    ooo   888  d8(  888   888     d8(  888          ⠀⠀⠀⡇⠀⠀⠀⠀⡇⠀⠀⠀⠀⡏⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  `Y8bood8P'  o888o `Y888""8o d888b    `Y888""8o         ⠀⠀⠀⠈⠉⠢⠤⡀⡇⡠⠤⠊⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                                                         ⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F5&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+%E3%83%83+;+I'm+Maria+Clara+Bastos!;Software+Developer+%26+Blockchain+Enthusiast;Based+in+Rio+de+Janeiro%2C+Brazil;Be+Welcome!+%3A%29)](https://git.io/typing-svg)<br><br>
+ .-----------------------------------------------------------------------------.
+ | (x) (-) (+)                     ~/about.txt                                 |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ | Software developer from Rio de Janeiro, Brazil.                             |
+ | Systems Analysis & Development student, and postgrad in Blockchain,         |
+ | Tokenization & Smart Contracts.                                             |
+ |                                                                             |
+ | Building bridges between Web2 and Web3: web & mobile apps, APIs,            |
+ | process automation and smart contracts.                                     |
+ | -@mclarabastos                                                              |
+ |                                                                             |
+ '-----------------------------------------------------------------------------'
+```
 
-## About Me
-I'm currently in my 4th semester of Systems Analysis and Development, and also pursuing a postgraduate degree in Blockchain, Tokenization & Smart Contracts. I'm passionate about building solutions that bridge Web2 and Web3, with hands-on experience in web and mobile development, API integrations, and process automation.
+<p><img src="./imgs/headings/stack.svg" alt="01 Stack" width="168" height="51"></p>
 
----
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-clara-bastos-522756291/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:mclarabasttoz@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<p>
+  <img src="./imgs/icons/lang-python.svg" alt="Python" title="Python" width="60" height="60"
+  ><img src="./imgs/icons/lang-javascript.svg" alt="JavaScript" title="JavaScript" width="60" height="60"
+  ><img src="./imgs/icons/lang-react.svg" alt="React" title="React" width="60" height="60"
+  ><img src="./imgs/icons/lang-tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="60"
+  ><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60">
 </p>
 
-<h3 align="center">Main Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,react,js,tailwind,github" />
+<p><img src="./imgs/headings/web3.svg" alt="02 Web3" width="150" height="51"></p>
+
+<p>
+  <img src="./imgs/icons/lang-solidity.svg" alt="Solidity" title="Solidity" width="60" height="60"
+  ><img src="./imgs/icons/lang-rust.svg" alt="Rust" title="Rust" width="60" height="60">
 </p>
 
-<h3 align="center">Blockchain & Web3</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust" />
+```text
+ mclara@web3 ~ % ls ~/also-used
+ typescript  mysql      firebase   supabase   aws
+ docker      git        postman    npm        vscode
+ c++         php        arduino
+```
+
+<p><img src="./imgs/headings/contact.svg" alt="03 Contact" width="204" height="51"></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/maria-clara-bastos-522756291/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn: Maria Clara Bastos" title="LinkedIn" width="60" height="60"></a
+  ><a href="mailto:mclarabasttoz@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a
+  ><a href="https://github.com/mclarabastos"><img src="./imgs/icons/github.svg" alt="GitHub: @mclarabastos" title="GitHub" width="60" height="60"></a>
 </p>
 
-<h3 align="center">Other Technologies I've Used</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,aws,git,postman,cpp,arduino,ts,docker,vscode,npm,php" /?
-</p>
+```text
+ mclara@web3 ~ % exit
+ logout
+ Saving session...completed.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer"/>
+ [Process completed]▌
+```
